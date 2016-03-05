@@ -16,12 +16,12 @@
     </p>
     <li>
     <p>
-    <strong><a href="/Day%203">Day 3:</a></strong>Javascript OOPs & Inheritance
+    <strong><a href="/Day%203">Day 3:</a></strong> Javascript OOPs & Inheritance
     </li>
     </p>
     <li>
     <p>
-    <strong><a href="/Day%204">Day 4:</a></strong>Callback Closure IIFE
+    <strong><a href="/Day%204">Day 4:</a></strong> Callback Closure IIFE
     </p>
     <strong></li></strong>
 </h5>
