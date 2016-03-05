@@ -1,7 +1,7 @@
 
 
-<h3>This covers javascript problemss covering following topics: 
-<br></h3>
+<h3>This covers javascript problems covering following topics: 
+</h3>
 
 <h5>
     <li>
@@ -26,7 +26,6 @@
     <strong></li></strong>
 </h5>
 <h6>
-<li>
 <p>
 <strong>
 <font color="green">I am also incorporating javascript handy notes which are easy but
@@ -36,7 +35,6 @@ Enjoy !!!
 </font>
 </strong>
 </p>
-</li>
 </h6>
 
 
