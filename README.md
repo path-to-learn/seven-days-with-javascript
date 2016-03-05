@@ -28,10 +28,13 @@
 <h6>
 <li>
 <p>
-<font><strong>Day 3:</strong><font color="green">I am also incorporating javascript handy notes which are easy but
+<strong>
+<font color="green">I am also incorporating javascript handy notes which are easy but
 hard to remember most of the times.
+<br>
 Enjoy !!!
 </font>
+</strong>
 </p>
 </li>
 </h6>
